@@ -8,8 +8,10 @@ Owner of Madhav Store wants us to help tsdshem create a dashboard to track and a
 ➢This project involves following steps:
 1.Data collection
 2.Data cleaning and wrangling
-                                                                                                                                                                          ➯
-
+3. Data modeling
+4. Data visualization
+5. Data- Dashboard designing.
+                                                                                                                                                                         
 ➯PROJECT OUTCOMES:
 •	Created interactive dashboard to track and analyze online sales data
 •	Used complex parameters to drill down in worksheet and customization using filter and slicers
